@@ -73,22 +73,26 @@ Example:
 
 ## How To Create a New Module
 
-1. Generate your module content.
+1. Add .wav or .ogg files to the custom audio folders where you have the mod installed.
+
+2. Rescan custom files for each type you've added.
+
+3. Generate your module content.
    - Use the Developer tab module builder to export selected local audio into a standalone module folder.
    - The export includes:
      - `AudioSwitcherModule.json`
      - `Audio/Sirens/...`
      - `Audio/Engines/...`
      - `Audio/Ambient/...`
-2. Create a new CS2 mod project.
+4. Create a new CS2 mod project.
 
-3. Add a minimal `Mod.cs` implementing `IMod`.
+5. Add a minimal `Mod.cs` implementing `IMod`.
 
-4. Copy your module files into that project including:
+6. Copy your module files into that project including:
    - `AudioSwitcherModule.json`.
    - The `Audio` folder including your custom audio.
 
-5. Ensure manifest/audio files are copied to output by adding:
+7. Ensure manifest/audio files are copied to output by adding:
 
 ```xml
 <ItemGroup>
@@ -96,13 +100,14 @@ Example:
   <Content Include="Audio\**\*.*" CopyToOutputDirectory="PreserveNewest" />
 </ItemGroup>
 ```
-6. Build and publish the module mod. Ensure you keep the mod ID the publisher provides to you.
+8. Build and publish the module mod. Ensure you keep the mod ID the publisher provides to you.
 
-8. Validate after upload.
+9. Validate after upload.
    - Check your PDX Mods listing metadata and media.
    - Subscribe and test in-game to confirm Audio Switcher discovers the module.
 
 ## Notes
 
-- Use consistent loudness and sensible `profile` distance/fade settings to prevent clipping or abrupt transitions.
+- Use consistent loudness and sensible profile distance/fade settings to prevent clipping or abrupt transitions.
+- You can base your profile on an existing profile but it is highly recommended that you adjust and test this.
 - Set Audio Switcher as a dependency in publish config (Dependency Id `135367`), as shown in this project.

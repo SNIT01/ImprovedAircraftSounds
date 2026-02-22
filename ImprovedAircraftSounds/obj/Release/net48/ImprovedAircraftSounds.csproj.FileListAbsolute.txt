@@ -10,3 +10,4 @@ C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAir
 C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.csproj.CoreCompileInputs.cache
 C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.dll
 C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.pdb
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.sourcelink.json
