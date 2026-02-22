@@ -1,0 +1,41 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="135438" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Improved Aircraft Sounds" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Improved engine sounds for planes and helicopters" />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="Improved engine sounds for planes and helicopters" /-->
+	<LongDescription>
+Improved engine sounds for planes and helicopters.
+
+Once the module is added to you playlist rescan custom engine file and please ensure you switch to the sounds in Audio Switcher (Vehicle engines tab).
+
+If you don't hear the change imediately scoll right out and back in again, this will reload the audio.
+	</LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/ias_logo.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="" />
+	<!--Version of the mod-->
+	<ModVersion Value="1.2" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="1.5.4" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<Dependency Id="135367" />
+	<!--Required DLC, can be set multiple times. Supported values are "Landmark Buildings", "San Fransisco Set", "Beach Properties", "Urban Promenades", "Modern Architecture"-->
+	<RequiredDLC Value="" />
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="Listing change" />
+	<!--<ChangeLog>
+	</ChangeLog>-->
+	<!--External link, can be set multiple times. supported types are "discord", "github", "youtube", "twitch", "x", "paypal", "patreon", "buymeacoffee", "kofi", "crowdin", "gitlab", "gofundme"-->
+	<ExternalLink Type="" Url="" />
+	<!--Supported values Public, Private, Unlisted-->
+	<AccessLevel Value="Unlisted" />
+</Publish>

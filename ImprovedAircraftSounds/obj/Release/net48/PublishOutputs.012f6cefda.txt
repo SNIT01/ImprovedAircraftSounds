@@ -1,0 +1,5 @@
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\AudioSwitcherModule.json
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\Audio\Engines\Bell Heli Engine.ogg
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\Audio\Engines\Jet Plane.wav
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\ImprovedAircraftSounds.dll
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\ImprovedAircraftSounds.pdb

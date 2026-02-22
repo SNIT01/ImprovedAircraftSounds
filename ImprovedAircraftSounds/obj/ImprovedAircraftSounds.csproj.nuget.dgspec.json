@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\snitt\\Documents\\CitiesSkylines2 Mods\\ImprovedAircraftSounds\\ImprovedAircraftSounds\\ImprovedAircraftSounds.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\snitt\\Documents\\CitiesSkylines2 Mods\\ImprovedAircraftSounds\\ImprovedAircraftSounds\\ImprovedAircraftSounds.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\snitt\\Documents\\CitiesSkylines2 Mods\\ImprovedAircraftSounds\\ImprovedAircraftSounds\\ImprovedAircraftSounds.csproj",
+        "projectName": "ImprovedAircraftSounds",
+        "projectPath": "C:\\Users\\snitt\\Documents\\CitiesSkylines2 Mods\\ImprovedAircraftSounds\\ImprovedAircraftSounds\\ImprovedAircraftSounds.csproj",
+        "packagesPath": "C:\\Users\\snitt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\snitt\\Documents\\CitiesSkylines2 Mods\\ImprovedAircraftSounds\\ImprovedAircraftSounds\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\snitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

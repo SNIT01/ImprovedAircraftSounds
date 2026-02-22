@@ -1,0 +1,12 @@
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\AudioSwitcherModule.json
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\Audio\Engines\Bell Heli Engine.ogg
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\Audio\Engines\Jet Plane.wav
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\ImprovedAircraftSounds.dll
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\bin\Release\net48\ImprovedAircraftSounds.pdb
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.csproj.AssemblyReference.cache
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.AssemblyInfoInputs.cache
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.AssemblyInfo.cs
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.csproj.CoreCompileInputs.cache
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.dll
+C:\Users\snitt\Documents\CitiesSkylines2 Mods\ImprovedAircraftSounds\ImprovedAircraftSounds\obj\Release\net48\ImprovedAircraftSounds.pdb
